@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @jkesselring
-- 🌱 I’m currently learning how to better take notes and gather knowledge more effectively.
+- 👋 Hi, I’m Joseph (@jkesselring).
 - 💾 I enjoy working with PHP (Laravel), TypeScript, and otherwise improving workflows through code.
 
 <!---
